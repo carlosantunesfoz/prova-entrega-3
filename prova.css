@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@500&family=Inter:wght@400;500;600;700;800;900&display=swap');
+
+body {
+    background-color: rgb(4, 56, 115);
+}
+
+.header {
+    padding: 20px 0;
+}
+
+.titulo {
+    position: relative;
+    width: 1080px;
+    height: 50px;
+    margin: 0 auto;
+}
+
+.logo {
+    position: absolute;
+    color: white;
+    margin-top: 15px;
+    margin-left: 50px;
+    font-size: 25px;
+}
+
+.logo-img {
+    position: absolute;
+    margin-top: 10px;
+}
+
+
+nav {
+    position: absolute;
+    top: 17px;
+    right: 350px;
+    color: white;
+}
+nav li {
+    display: inline;
+    margin-left: 30px;
+}
+
+.login {
+    position: relative;
+    left: 800px;
+    color: black;
+    font-size: 16px;
+    background-color: #FFE492;
+    width: 120px;
+    height: 50px;
+    border-radius: 8px;
+    border-color: transparent;
+}
+
+.free {
+    position: relative;
+    left: 850px;
+    color: white;
+    background-color: #4F9CF9;
+    width: 160px;
+    height: 50px;
+    border-radius: 8px;
+    border-color: transparent;
+}
+
+
+.home {
+    padding: 20px 0;
+    background-image: url(Element.png);
+}
+
+.home-text {
+    position: relative;
+    width: 1080px;
+    height: 550px;
+    margin: 0 auto;
+}
+.home-titulo {
+    position: relative;
+    top: 300px;
+    color: white;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: 'Inter', sans-serif;
+}
+
+.home-sub {
+    position: relative;
+    top: 310px;
+    color: white;
+    font-family: 'Inter', sans-serif;
+    font-size: 14px;
+}
+
+.botao-2 {
+    position: relative;
+    top: 450px;
+    color: white;
+    background-color: #4F9CF9;
+    width: 160px;
+    height: 50px;
+    border-radius: 8px;
+    border-color: transparent;
+}
+
